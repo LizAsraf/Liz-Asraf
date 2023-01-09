@@ -1,10 +1,11 @@
 # Hi, I'm Liz Asraf
 
 ## I'm a DevOps engineer
-* 🌱 I’m currently learning Kubernetes.
-* 👀 I’m interested in DevOps Engineer position
-* 🧗 I try to: Go beyond and push the bounds
-* ⚡ Fun fact: I love connecting with different people 🙌 
+* I’m interested in DevOps Engineer position
+* I try to: Go beyond and push the bounds
+* I have experiance with SaaS companies as a product manager.
+* I have experience working with developers.
+* Fun fact: I love connecting with different people 🙌 
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liz.asraf1@gmail.com)
